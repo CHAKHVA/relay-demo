@@ -1,0 +1,13 @@
+{
+  "taskId": "rcdha",
+  "jobKind": "work",
+  "type": "docs",
+  "summary": "Added a CLAUDE.md at the repository root describing the project, commands, layout, conventions, and the Relay workflow rules. No code was changed.",
+  "outputMode": "pr",
+  "commentMarkdown": "",
+  "filesChanged": ["CLAUDE.md", ".relay/results/rcdha.json"],
+  "checkCommand": "",
+  "checkPassed": null,
+  "triage": null,
+  "notes": "No doneCheck was provided. The 'npx tsc' typecheck command in CLAUDE.md was not run."
+}
